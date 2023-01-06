@@ -11,6 +11,9 @@ Nest and Google have a number of APIs available.. lets see if I can roll my own 
 
 ### Tasks:
 [x] Get documentation on APIs Access Needed for viewing camera feeds.
+
 [] Mock version of camera dashboard interface.
+
 [] Integrate API services with dashboard.
+
 [] Test interface / monitor usage limits ...
